@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Mar 16 22:38:55 CET 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0178-3cfa-387c-000003522788 
+on database directory D:\Programowanie\Derby\radek with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@69663380 
+Loaded from file:/C:/Users/Danuta/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.4+10-LTS
+user.dir=C:\Users\Danuta\Documents\NetBeansProjects\DerbyBaza
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

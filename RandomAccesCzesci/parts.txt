@@ -1,0 +1,8 @@
+PKL070 Szkła_ochronne 8 6,50
+BLJ375 Złącze_kulowe 12 11,95
+PKL070 Szkla_ochronne 8 6,50
+FLT015 Filtr_oleju 23 7,95
+DKP080 Podkładki 16 9,99
+GSF555 Filtr_gazu 9 4,50
+FLT015 Filtr_oleju 23 7,95
+END

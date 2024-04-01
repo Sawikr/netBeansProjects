@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.mycompany.formatter","c":"Formatter","l":"Formatter()","url":"%3Cinit%3E()"},{"p":"com.mycompany.formatter","c":"Formatter","l":"main(String[])","url":"main(java.lang.String[])"}]

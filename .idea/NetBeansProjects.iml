@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/AESdziala/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AESszyfr/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AuthPermission/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BookDruk/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Comparator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DerbyBaza/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DerbyJDBC/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dokumentacja/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DrzewoLiczbaSlow/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Externalizable/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FilePickerBean/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Files/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FirstSpring/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FirstSpring/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FirstSpringAp/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FirstSpringAp/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Formatter/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HashSza1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Jaas/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JaasStronaNet/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaModularApplication1/src/com.javafirm/classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaModularApplication1/src/org.javafirm/classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaModularExampleFuncs/src/appstart/classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaModularExampleFuncs/src/userfuncs/classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaModularExampleFuncs/src/userfuncsimp/classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/KlasaPozwolen/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/KlasaPozwolenBezpJava/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/KlasaPozwolenJava/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/KlasaZip/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LiczbyLosowNierownomierne/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LiczbyLosoweGraNim/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LoaderSzyfr/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LocalDate/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lokalna/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MemMap/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MemoryMap/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ModMaven/NewModule/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ModMaven/src/main/java/com/radeksawicki/modmaven" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ModulJavaMath/src/main/java/mymodapp/appsrc/appfuncs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ModulJavaMath/src/main/java/mymodapp/appsrc/appstart" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ModulJavaMath/src/main/java/mymodapp/appsrc/appsupport" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ModulJavaMath/src/main/java/mymodapp/appsrc/userfuncs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ModulJavaMath/src/main/java/mymodapp/appsrc/userfuncsimp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ModuleMaven/daomodule/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ModuleMaven/entitymodule/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ModuleMaven/mainappmodule/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ModuleMaven/userdaomodule/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MultiTable/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PaneleDzielone/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Permission/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PierwszySpring/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PierwszySpring/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PlanLekcji/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PlanLekcjiPlus/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Post/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PrintText/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Proba/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PrzeciagnijUpusc/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/QuerySQL/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/RSABoo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/RSABook/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/RamkiWewnetrzne/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/RandomAccIndexCzesci/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/RandomAccesCzesci/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Serializacja/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SortowanieCompare/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SortowanieTablicy/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SpringDemo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SymulacjaKolejkiwBanku/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tokeny/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tokeny_RandomAcessFile/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TrwaloscZiarnekBeanFrame/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UslugaDrukowania/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ViewSQL/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/WarstwyLayer/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ZapisOdczyt/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

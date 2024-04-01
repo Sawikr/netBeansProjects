@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-09-29T13:46:23.985437400Z</date>
+  <millis>1601387183985</millis>
+  <nanos>437400</nanos>
+  <sequence>2</sequence>
+  <logger>Radek</logger>
+  <level>INFO</level>
+  <class>com.mycompany.formatter.Formatter</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finnest message: Logger with DEFAULT FORMATTER</message>
+</record>
+wrz 29, 2020 3:46:24 PM com.mycompany.formatter.Formatter main
+SEVERE: Finnest message: Logger with SIMPLE FORMATTER

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.4" class="java.beans.XMLDecoder">
+ <object class="javax.swing.JFrame" id="JFrame0">
+  <void property="bounds">
+   <object class="java.awt.Rectangle" id="Rectangle0">
+    <void class="java.awt.Rectangle" method="getField">
+     <string>x</string>
+     <void method="set">
+      <object idref="Rectangle0"/>
+      <int>1064</int>
+     </void>
+    </void>
+    <void class="java.awt.Rectangle" method="getField">
+     <string>y</string>
+     <void method="set">
+      <object idref="Rectangle0"/>
+      <int>61</int>
+     </void>
+    </void>
+    <void class="java.awt.Rectangle" method="getField">
+     <string>width</string>
+     <void method="set">
+      <object idref="Rectangle0"/>
+      <int>503</int>
+     </void>
+    </void>
+    <void class="java.awt.Rectangle" method="getField">
+     <string>height</string>
+     <void method="set">
+      <object idref="Rectangle0"/>
+      <int>308</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void property="contentPane">
+   <void property="size">
+    <object class="java.awt.Dimension" id="Dimension0">
+     <void class="java.awt.Dimension" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Dimension0"/>
+       <int>487</int>
+      </void>
+     </void>
+     <void class="java.awt.Dimension" method="getField">
+      <string>height</string>
+      <void method="set">
+       <object idref="Dimension0"/>
+       <int>269</int>
+      </void>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="javax.swing.JButton">
+     <string>Load</string>
+     <void method="addActionListener">
+      <object class="java.beans.EventHandler" method="create">
+       <class>java.awt.event.ActionListener</class>
+       <object class="trwaloscziarnekbeanframe.PersistentFrameTest" id="PersistentFrameTest0"/>
+       <string>load</string>
+      </object>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="javax.swing.JButton" id="JButton0">
+     <string>Save</string>
+     <void property="model">
+      <void property="rollover">
+       <boolean>true</boolean>
+      </void>
+     </void>
+     <void method="addActionListener">
+      <object class="java.beans.EventHandler" method="create">
+       <class>java.awt.event.ActionListener</class>
+       <object idref="PersistentFrameTest0"/>
+       <string>save</string>
+      </object>
+     </void>
+    </object>
+   </void>
+   <void property="layout">
+    <object class="java.awt.FlowLayout"/>
+   </void>
+  </void>
+  <void property="defaultCloseOperation">
+   <object class="javax.swing.WindowConstants" field="EXIT_ON_CLOSE"/>
+  </void>
+  <void id="Dimension1" property="minimumSize">
+   <void class="java.awt.Dimension" method="getField">
+    <string>width</string>
+    <void method="set">
+     <object idref="Dimension1"/>
+     <int>156</int>
+    </void>
+   </void>
+   <void class="java.awt.Dimension" method="getField">
+    <string>height</string>
+    <void method="set">
+     <object idref="Dimension1"/>
+     <int>75</int>
+    </void>
+   </void>
+  </void>
+  <void property="minimumSize">
+   <object idref="Dimension1"/>
+  </void>
+  <void property="name">
+   <string>frame0</string>
+  </void>
+  <void property="title">
+   <string>PersistentFrameTest</string>
+  </void>
+  <void property="visible">
+   <boolean>true</boolean>
+  </void>
+ </object>
+</java>
